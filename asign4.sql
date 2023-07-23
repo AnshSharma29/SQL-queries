@@ -1,4 +1,6 @@
 # Assignment 4
+
+
 create database assignment4;
 Create table EMP (
 EMPNO	NUMERIC(4)        Primary key,
