@@ -285,3 +285,6 @@ alter table emp alter column empno drop primary key;
             select ename from emp where sal in (select min(sal) from emp);
             
             select sal, (sal+sal* 0.15) as new_sal from emp;
+
+
+
