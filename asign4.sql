@@ -12,6 +12,7 @@ SAL	NUMERIC(9,2),
 COMM	NUMERIC(7,2),
 DEPTNO	NUMERIC(2) );
 
+
 Create table DEPT (
  DEPTNO  	numeric(2)        Primary key ,
  DNAME 	 VARCHAR(20)  NOT NULL,
